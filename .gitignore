@@ -1,0 +1,27 @@
+# Dependency folders
+node_modules/
+venv/
+.env
+
+# Build files
+dist/
+build/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
